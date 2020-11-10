@@ -1,1 +1,1 @@
-# SQL---Veri-Tabani
+# SQLite---Veri-Tabani
